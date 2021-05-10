@@ -1,4 +1,4 @@
-# Manual de instalação:
+#  link para visualizar no heroku
 
 Fiz um deploy do projeto para poder visualizar ele rodando: ...
 ------------------------------------------------------------------------------------------------------------------
