@@ -1,6 +1,6 @@
- link para visualizar no heroku: https://teste-greenwave.herokuapp.com/
 
-Fiz um deploy do projeto para poder visualizar ele rodando: ...
+
+Fiz um deploy do projeto para poder visualizar ele rodando: https://teste-greenwave.herokuapp.com/
 ------------------------------------------------------------------------------------------------------------------
 No caso de instalar o projeto na maquina:
 
